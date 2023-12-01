@@ -32,7 +32,7 @@ echo Car::$describe;
 Car::makeNoise();
 
 $train1 = new Train("Rudolfings", "9mm", 7500);
-$train2 = new Train("Utopia", "99cm", 85);
+$train2 = new Train("gang", "99cm", 85);
 
 
 
