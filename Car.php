@@ -1,12 +1,17 @@
 <?php
-include_once "Vehicle.php";
-class Car extends Vehicle {
-    static $describe = "I mostly have 4 wheels and im made out of metal and also got a color";
+// include_once "Vehicle.php";
+// class Car extends Vehicle
+// {   
+//     public function __construct($brand, $mileage) {
+//         $this->brand = $brand;
+//         $this->mileage = $mileage;
+//     }
 
+//     public static $describe = "masinai ir 4 riepas";
 
-    static function makeNoise(){
-        echo "Beep, beep, badum pow cow!";
-    }
+//     public static function makeNoise(){
+//         echo "Beep, beep!";
+//     }
+// }
 
-
-}
+?>
